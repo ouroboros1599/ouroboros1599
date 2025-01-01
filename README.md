@@ -10,7 +10,7 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
   - **Desarrollo Web**
   - **Videojuegos**
   - **Bases de Datos Relacionales**
-- 📫 Contacto: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- 📫 Contacto: [jesuscastillomorales1599@gmail.com](mailto:jesuscastillomorales1599@gmail.com)
 
 ---
 

@@ -11,8 +11,9 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
   - **Videojuegos**
   - **Bases de Datos Relacionales**
 - 📫 Contacto:
-  - **[jesuscastillomorales1599@gmail.com](mailto:jesuscastillomorales1599@gmail.com)
-  - **LinkedIn: [linkedin.com/in/jesus-castillo-morales](https://www.linkedin.com/in/jesuscastillomorales1599)
+  - Correo: [jesuscastillomorales1599@gmail.com](mailto:jesuscastillomorales1599@gmail.com)
+  - LinkedIn: [linkedin.com/in/jesus-castillo-morales](https://www.linkedin.com/in/jesuscastillomorales1599)
+
 
 ---
 

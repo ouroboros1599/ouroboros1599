@@ -10,7 +10,9 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
   - **Desarrollo Web**
   - **Videojuegos**
   - **Bases de Datos Relacionales**
-- 📫 Contacto: [jesuscastillomorales1599@gmail.com](mailto:jesuscastillomorales1599@gmail.com)
+- 📫 Contacto:
+  - **[jesuscastillomorales1599@gmail.com](mailto:jesuscastillomorales1599@gmail.com)
+  - **LinkedIn: [linkedin.com/in/jesus-castillo-morales](https://www.linkedin.com/in/jesuscastillomorales1599)
 
 ---
 
@@ -33,11 +35,18 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 
+### Herramientas de Versionamiento
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
 
 ### Lenguajes de estilo de hoja CSS
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+### Entornos de Desarrollo
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 

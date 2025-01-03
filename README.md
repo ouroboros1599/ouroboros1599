@@ -55,9 +55,5 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ouroboros1599&show_icons=true&theme=radical)
 
 ---
-### Test
-<figure><embed src="https://wakatime.com/share/@018d48f8-77ea-4728-872a-f9aa35df8170/c52aa5e4-415f-4c7e-b50c-ae6ffee18d92.svg"></embed></figure>
-
----
 
 💻 **_“Nunca dejes de aprender, siempre hay algo nuevo que descubrir”_**

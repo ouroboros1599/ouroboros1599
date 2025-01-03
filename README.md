@@ -56,6 +56,8 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
 
 ---
 ### Test
+<figure><embed src="https://wakatime.com/share/@018d48f8-77ea-4728-872a-f9aa35df8170/c52aa5e4-415f-4c7e-b50c-ae6ffee18d92.svg"></embed></figure>
 
-[![wakatime](https://wakatime.com/badge/user/018d48f8-77ea-4728-872a-f9aa35df8170/project/fe2c1ae5-e74c-49fd-87eb-5a9836ff1798.svg)](https://wakatime.com/badge/user/018d48f8-77ea-4728-872a-f9aa35df8170/project/fe2c1ae5-e74c-49fd-87eb-5a9836ff1798)
+---
+
 💻 **_“Nunca dejes de aprender, siempre hay algo nuevo que descubrir”_**

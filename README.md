@@ -41,7 +41,7 @@ Soy un **Ingeniero Civil Informático** egresado en el año 2024 de la **Univers
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
 
-### Lenguajes de estilo de hoja CSS
+### Lenguajes de CSS
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
